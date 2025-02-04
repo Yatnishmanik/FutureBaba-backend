@@ -1,0 +1,20 @@
+{
+  "name": "backend-payment",
+  "version": "1.0.0",
+  "description": "payment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yatnish manik",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "*",
+    "nodemon": "^3.1.9",
+    "razorpay": "^2.9.5"
+  }
+}

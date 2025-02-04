@@ -1,0 +1,51 @@
+[
+  {
+    "dobDay": "01",
+    "mulyank": "1",
+    "RuledBy": "Sun(Surya)",
+    "PositiveTraits1": "Born Leaders (नेतृत्व करने की क्षमता)",
+    "PositiveTraits2": " Confident(आत्मविश्वासी)",
+    "PositiveTraits3": " Independent Thinkers(खुद के निर्णय लेना पसंद करते हैं)",
+    "PositiveTraits4": "Original(मौलिक विचार)",
+    "negativeTraits1": "Dominating(कभी-कभी जिद्दी और हठी हो सकते हैं)",
+    "negativeTraits2": "Impatient(धैर्य की कमी होती है, जल्दी परिणाम चाहते हैं)",
+    "CareerChoices": "Business,Management, Acting, Writing etc",
+    "BestMatches": "Mulyank 2, 3, 5, 6, 9",
+    "ChallengingMatches": " Mulyank 4, 7, 8",
+    "astrologer": "FutureBaba(An AI System)",
+    "nature": "Optimistic Always have a positive mindset(सकारात्मक सोच वाले होते हैं।)"
+  },
+  {
+    "dobDay": "02",
+    "mulyank": "2",
+    "RuledBy": "Moon(Chandra)",
+    "PositiveTraits1": "Diplomatic (कूटनीतिक सोच वाले होते हैं)",
+    "PositiveTraits2": "Emotional & Caring (भावुक और देखभाल करने वाले)",
+    "PositiveTraits3": "Cooperative (सहयोगी स्वभाव वाले होते हैं)",
+    "PositiveTraits4": "Imaginative & Creative (कल्पनाशील और रचनात्मक)",
+    "negativeTraits1": "Over-Sensitive (अत्यधिक संवेदनशील हो सकते हैं)",
+    "negativeTraits2": "Lack of Confidence (कभी-कभी आत्मविश्वास की कमी होती है)",
+    "CareerChoices": "Art, Music, Writing, Teaching, Counseling",
+    "BestMatches": "Mulyank 1, 3, 5, 6, 8",
+    "ChallengingMatches": "Mulyank 4, 7, 9",
+    "astrologer": "FutureBaba(An AI System)",
+    "nature": "Soft-Spoken and Kind (मृदुभाषी और दयालु होते हैं।)"
+  },
+  {
+    "dobDay": "03",
+    "mulyank": "3",
+    "RuledBy": "Jupiter(Guru)",
+    "PositiveTraits1": "Intelligent & Wise (बुद्धिमान और समझदार होते हैं)",
+    "PositiveTraits2": "Creative Thinker (रचनात्मक सोच वाले होते हैं)",
+    "PositiveTraits3": "Optimistic & Cheerful (हमेशा आशावादी और खुशमिजाज रहते हैं)",
+    "PositiveTraits4": "Hardworking & Goal-Oriented (परिश्रमी और लक्ष्य पर ध्यान केंद्रित करने वाले होते हैं)",
+    "negativeTraits1": "Stubborn (कभी-कभी जिद्दी हो सकते हैं)",
+    "negativeTraits2": "Overconfident (अत्यधिक आत्मविश्वास कभी-कभी नुकसान कर सकता है)",
+    "CareerChoices": "Education, Writing, Public Speaking, Business, Politics",
+    "BestMatches": "Mulyank 1, 2, 5, 6, 9",
+    "ChallengingMatches": "Mulyank 4, 7, 8",
+    "astrologer": "FutureBaba(An AI System)",
+    "nature": "Ambitious and Energetic (महत्वाकांक्षी और ऊर्जावान होते हैं।)"
+    
+  }
+]
